@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Café Unique</string>
+    <string name="titulo_app">Café Unique</string>
+    <string name="mensaje_app">El menú del día está listo.</string>
+</resources>
